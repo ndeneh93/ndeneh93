@@ -7,12 +7,12 @@
 
   <!-- Centered Heading -->
   <h1 style="margin-bottom: 10px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Ndenneh+Chubu!" alt="Typing intro" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I+am+Ndenneh+Chubu!" alt="Typing intro" />
   </h1>
 
   <!-- Centered Animated Subtitle -->
   <h3 style="margin-top: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=400&height=40&lines=I+am+a+Full-Stack+Software+Developer!" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=400&height=40&lines=a+Full-Stack+Software+Developer!" alt="Typing animation"/>
   </h3>
 
 </div>
