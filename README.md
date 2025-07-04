@@ -3,10 +3,12 @@
 
 <!-- Heading Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Ndenneh+Chubu!" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I+am+Ndenneh+Chubu!" alt="Typing intro" />
 </h1>
 
-<h3 align="center">I+am a Full-Stack Software Developer!</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=a+Full-Stack+Software+Developer!" alt="Typing animation"/>
+</h3>
 
 <!-- Short Intro -->
 <div align="center">
@@ -29,13 +31,26 @@
 
 <hr/>
 
-<!-- Tech Stack Section -->
-<h2 align="center">⚒️ Languages & Frameworks I Use ⚒️</h2>
+<!-- Frontend Category -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&center=true&vCenter=true&width=400&height=50&lines=Frontend+Technologies" alt="Frontend Technologies" />
+</h2>
+
+<div align="center" style="margin-bottom: 40px;">
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" alt="Frontend Stack"/>
+</div>
+
+<!-- Backend Category -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&center=true&vCenter=true&width=400&height=50&lines=Backend+Technologies" alt="Backend Technologies" />
+</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" alt="Frontend Stack"/>
-  <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,nextjs" alt="Backend Stack"/>
+</div>
+
+</div>
+
 </div>
 
 <hr/>
@@ -53,7 +68,13 @@
 <h2 align="center">📈 My GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndeneh93&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ndeneh93&theme=react-dark&hide_border=true&area=true" 
+    alt="GitHub Activity Graph" 
+    style="width: 90%; max-width: 600px; border: 2px solid #61dafb; border-radius: 12px; box-shadow: 0 4px 15px rgba(97, 218, 251, 0.4);" 
+  />
+</div>
 </div>
 
 <hr/>
